@@ -1,3 +1,3 @@
-The offline game in [Operan GX](https://www.opera.com/gx) is
+The offline game in [Opera GX](https://www.opera.com/gx) is
 
-# [Operius](opera://operius)
+<big><big>[Operius](opera://operius)</big></big>
